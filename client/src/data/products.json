@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "name": "TranslatePro AI",
+      "description": "Solution de traduction automatique multilingue alimentée par l'IA, capable de traduire du texte, des documents et des sites web en temps réel avec une précision exceptionnelle.",
+      "features": [
+        "Traduction en temps réel dans plus de 100 langues",
+        "Préservation du contexte et du style",
+        "API facile à intégrer",
+        "Support des formats DOC, PDF, et HTML",
+        "Adaptation automatique au domaine métier",
+        "Mémoire de traduction intelligente"
+      ],
+      "price": {
+        "basic": "49€/mois",
+        "pro": "99€/mois",
+        "enterprise": "Sur mesure"
+      },
+      "icon": "Languages"
+    },
+    {
+      "id": 2,
+      "name": "SmartChat Assistant",
+      "description": "Assistant virtuel personnalisable utilisant Claude et GPT pour automatiser le service client et le support technique.",
+      "features": [
+        "Apprentissage continu",
+        "Intégration multi-plateforme",
+        "Personnalisation avancée",
+        "Analytics en temps réel",
+        "Support multilingue intégré",
+        "Tableau de bord détaillé"
+      ],
+      "price": {
+        "basic": "79€/mois",
+        "pro": "149€/mois",
+        "enterprise": "Sur mesure"
+      },
+      "icon": "MessageSquare"
+    },
+    {
+      "id": 3,
+      "name": "ContentGenius",
+      "description": "Plateforme de génération de contenu multilingue utilisant l'IA générative pour créer des textes originaux et pertinents.",
+      "features": [
+        "Génération de contenu SEO",
+        "Adaptation culturelle",
+        "Vérification du plagiat",
+        "Export multi-format",
+        "Analyse de sentiment",
+        "Optimisation automatique"
+      ],
+      "price": {
+        "basic": "59€/mois",
+        "pro": "119€/mois",
+        "enterprise": "Sur mesure"
+      },
+      "icon": "FileText"
+    }
+  ]
+  

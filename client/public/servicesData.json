@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "Développement de logiciels",
+      "price": 2000,
+      "description": "Création de logiciels sur mesure pour votre entreprise",
+      "features": [
+        "Code de haute qualité",
+        "Maintenance garantie",
+        "Intégration IA (OpenAI, Claude, etc.)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Application Web",
+      "price": 1500,
+      "description": "Développement complet d'applications web",
+      "features": [
+        "Responsive Design",
+        "Technologies modernes (React, Node, ...)",
+        "Maintenance & Support"
+      ]
+    }
+  ]
+  
